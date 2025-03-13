@@ -7,6 +7,8 @@ Time:
 - Installation: 0-18.30 
 - Start Project: 18.30 + 
 
-
 ## Git Repo
 https://github.com/adrianhajdin/healthcare
+
+
+Current: 30
